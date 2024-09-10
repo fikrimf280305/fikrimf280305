@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
 
-<img src=https://github.com/user-attachments/assets/e849271d-c556-4a59-b094-ddcdbbfa88d4 width="254" height="360">
+<img src="https://github.com/user-attachments/assets/e849271d-c556-4a59-b094-ddcdbbfa88d4" width="254" height="360" />
