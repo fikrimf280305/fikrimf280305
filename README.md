@@ -11,8 +11,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
 
+<img src=https://github.com/user-attachments/assets/e849271d-c556-4a59-b094-ddcdbbfa88d4>
+
 <!--
-**fikrimf280305/fikrimf280305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fikrimf280305/fikrimf280305** is a ✨ _special_ ✨ repos![111802192_p0](https://github.com/user-attachments/assets/e849271d-c556-4a59-b094-ddcdbbfa88d4)
+itory because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
