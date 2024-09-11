@@ -22,3 +22,10 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
 
 <br />
+
+<div align="center">
+  <figure>
+    <img src="https://github.com/user-attachments/assets/4c80a80c-e6bd-4a11-b6fc-7cc8fb29f3d9" width="254" height="360" alt="fikrimf280305" />
+    <figcaption>Blue Archive's Morizuki Suzumi fan art by らすが怜 from pixiv</figcaption>
+  </figure>
+</div>
