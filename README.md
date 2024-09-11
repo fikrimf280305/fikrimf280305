@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev/">
+  <a href="https://skillicons.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,md,git,github" alt="fikrimf280305" />
   </a>
 </p>
