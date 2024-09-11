@@ -26,6 +26,7 @@
 <div align="center">
   <figure>
     <img src="https://github.com/user-attachments/assets/4c80a80c-e6bd-4a11-b6fc-7cc8fb29f3d9" width="254" height="360" alt="fikrimf280305" />
+    <br />
     <figcaption>Blue Archive's Morizuki Suzumi fan art by らすが怜 from pixiv</figcaption>
   </figure>
 </div>
