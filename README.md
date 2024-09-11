@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm fikrimf280305</h1>
 <h3 align="center">Developer from Indonesia</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="fikrimf280305" />
+  </a>
+</p>
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
 
 <br />
@@ -16,5 +22,3 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
 
 <br />
-
-<p align="center"><img src="https://github.com/user-attachments/assets/e849271d-c556-4a59-b094-ddcdbbfa88d4" width="254" height="360" alt="fikrimf280305" /></p>
