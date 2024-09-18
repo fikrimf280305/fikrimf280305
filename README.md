@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,express,md,git,github,vscode,arch,linux" alt="fikrimf280305" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,bun,express,md,git,github,vscode,arch,linux" alt="fikrimf280305" />
   </a>
 </p>
 
