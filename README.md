@@ -13,14 +13,6 @@
 
 <br />
 
-<div align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fikrimf280305&show_icons=true&locale=en&theme=onedark&layout=compact" alt="fikrimf280305" /></span>
-  &nbsp;
-  <span><img src="https://github-readme-stats.vercel.app/api?username=fikrimf280305&show_icons=true&locale=en&theme=onedark" alt="fikrimf280305" /></span>
-</div>
-
-<br />
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
 
 <br />
