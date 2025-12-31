@@ -11,8 +11,6 @@
   <img src="https://www.codewars.com/users/fikrimf280305/badges/large" alt="fikrimf280305" />
 </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fikrimf280305&theme=onedark" alt="fikrimf280305" /></p>
-
 <br />
 
 <div align="center">
