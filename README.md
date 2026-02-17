@@ -15,8 +15,8 @@
 
 <div align="center">
   <figure>
-    <img src="https://github.com/user-attachments/assets/4c80a80c-e6bd-4a11-b6fc-7cc8fb29f3d9" width="254" height="360" alt="fikrimf280305" />
+    <img width="400" height="600" alt="Oguri Cap" src="https://github.com/user-attachments/assets/3cf65d9a-30cc-4368-b377-73aed675f4d0" />
     <br />
-    <figcaption>Blue Archive's Morizuki Suzumi fan art by らすが怜 from pixiv</figcaption>
+    <figcaption>Oguri Cap was so pretty</figcaption>
   </figure>
 </div>
